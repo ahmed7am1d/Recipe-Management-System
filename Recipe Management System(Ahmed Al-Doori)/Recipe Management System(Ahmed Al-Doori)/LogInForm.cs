@@ -17,7 +17,7 @@ namespace Recipe_Management_System_Ahmed_Al_Doori_
     public partial class LogIn : Form
     {
         #region SQL connection
-        SqlConnection SqlConnection = new SqlConnection("Server=DESKTOP-VSQPLS4\\SQLEXPRESS;Database=RecipeManagementSystem;User Id=a_al_doori;Password=5040302010HammodY;");
+        SqlConnection SqlConnection = new SqlConnection("");
         #endregion
 
         #region From Constructor
